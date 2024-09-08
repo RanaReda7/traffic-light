@@ -1,8 +1,5 @@
 /*
  * timer.h
- *
- * Created: 9/25/2019 7:22:18 PM
- *  Author: Mohamed Zaghlol
  */ 
 
 
