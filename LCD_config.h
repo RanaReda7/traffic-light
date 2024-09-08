@@ -1,8 +1,7 @@
 /*
  * LCD_config.h
  *
- * Created: 2/23/2018 7:55:06 PM
- *  Author: Mohamed Zaghlol
+ * Created: 10/2023
  */ 
 
 
